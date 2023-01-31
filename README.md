@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tevaughn.shaw1@gmail.com**
 
-- ⚡ Fun fact **I have a twin sister**
+- ⚡ Fun fact **I love learning about AI!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

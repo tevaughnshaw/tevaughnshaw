@@ -1,7 +1,7 @@
-[![MasterHead](https://www.acamstoday.org/viva-la-regulacion/ai-driven-social-media-banner/)]
+
 <h1 align="center">Hi 👋, I'm TeVaughn Shaw</h1>
 <h3 align="center">A passionate data scientist from America</h3>
-<img align="right" alt="Phenaki" width="400" src="https://commons.wikimedia.org/wiki/File:Phenakistoscope_3g07690a.gif">
+<img align="right" alt="Phenaki" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Phenakistoscope_3g07690a.gif/480px-Phenakistoscope_3g07690a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tevaughnshaw&label=Profile%20views&color=0e75b6&style=flat" alt="tevaughnshaw" /> </p>
 
 - 😄 Pronouns: **He/Him/His**

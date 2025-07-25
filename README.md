@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm TeVaughn Shaw</h1>
-<h3 align="center">I have a passion for computational neuroscience</h3>
+<h3 align="center">I have a passion for data science & computer vision</h3>
 <img align="right" alt="Phenaki" width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Phenakistoscope_3g07690a.gif/480px-Phenakistoscope_3g07690a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tevaughnshaw&label=Profile%20views&color=0e75b6&style=flat" alt="tevaughnshaw" /> </p>
 
 - 😄 Pronouns: **He/Him/His**
 
-- 🌱 I’m currently learning **Neuroscience Fundamentals**
+- 🌱 I’m currently learning **Computational Neuroscience**
 
 - 📫 How to reach me **tevaughn.shaw1@gmail.com**
 
